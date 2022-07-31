@@ -1,9 +1,9 @@
-package com.mln.drivers;
+package com.mln.drivers.web.local.managers;
 
 import org.openqa.selenium.WebDriver;
 
 import com.mln.config.ConfigFactory;
-import com.mln.drivers.factories.LocalDriverFactory;
+import com.mln.drivers.web.local.factories.LocalDriverFactory;
 
 
 public final class DriverManager {
